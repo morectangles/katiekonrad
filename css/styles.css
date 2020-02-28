@@ -13,6 +13,7 @@ h2 {
     font-family: 'Didact Gothic';
 }
 
-.row {
+video {
+    width: 100%;
     vertical-align: middle;
 }
